@@ -1,4 +1,4 @@
-# TIE-Fighter-Density-based-analysis
+# TIE Fighter Density based analysis
  
 Density based clustering algorithms (DBSCAN, OPTICSXi, HDBSCAN) explanation on artificial 2D dataset resembling TIE Fighter from Star Wars.  
 
